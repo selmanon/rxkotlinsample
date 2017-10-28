@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">rxkotlin sample</string>
+    <string name="enter_a_valid_email_below">Email:</string>
+    <string name="password_than_8_chrs"><![CDATA[Password:]]></string>
+    <string name="number_between_1_amp_100"><![CDATA[number (between 1 & 100):]]></string>
+    <string name="msg_demo_form_comb_latest">ComineLatest Magic!</string>
+    <string name="submit">Submit</string>
+</resources>
